@@ -1,0 +1,33 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio Version 17
+VisualStudioVersion = 17.8.34322.80
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{54A90642-561A-4BB1-A94E-469ADEE60C69}") = "myLearningUI", "myLearningUI\myLearningUI.esproj", "{C0AE5517-1D4C-4414-9E2E-BB983E6BC68F}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "myLearningAPI", "myLearningAPI\myLearningAPI.csproj", "{BACE2219-D09D-4BDF-B9FA-80E7D9F69F1B}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{C0AE5517-1D4C-4414-9E2E-BB983E6BC68F}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{C0AE5517-1D4C-4414-9E2E-BB983E6BC68F}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{C0AE5517-1D4C-4414-9E2E-BB983E6BC68F}.Debug|Any CPU.Deploy.0 = Debug|Any CPU
+		{C0AE5517-1D4C-4414-9E2E-BB983E6BC68F}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{C0AE5517-1D4C-4414-9E2E-BB983E6BC68F}.Release|Any CPU.Build.0 = Release|Any CPU
+		{C0AE5517-1D4C-4414-9E2E-BB983E6BC68F}.Release|Any CPU.Deploy.0 = Release|Any CPU
+		{BACE2219-D09D-4BDF-B9FA-80E7D9F69F1B}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{BACE2219-D09D-4BDF-B9FA-80E7D9F69F1B}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{BACE2219-D09D-4BDF-B9FA-80E7D9F69F1B}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{BACE2219-D09D-4BDF-B9FA-80E7D9F69F1B}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+	GlobalSection(ExtensibilityGlobals) = postSolution
+		SolutionGuid = {B01D0257-DDF8-441F-A201-18C027961320}
+	EndGlobalSection
+EndGlobal
